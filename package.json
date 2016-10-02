@@ -1,6 +1,6 @@
 {
   "name": "odp",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "HTTP client for the European Union Open Data Portal.",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,15 @@
     "open data",
     "european union open data"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kalinchernev/odp"
+  },
+  "bugs": {
+    "url": "https://github.com/kalinchernev/odp/issues"
+  },
   "author": "Kalin Chernev",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
     "eslint": "^3.7.0",
