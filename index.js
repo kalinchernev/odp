@@ -1,3 +1,3 @@
 'use strict'
 
-module.exports = require('./lib/opd')
+module.exports = require('./lib/odp')

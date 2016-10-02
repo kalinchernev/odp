@@ -44,7 +44,7 @@ odp.getDatasets().then((data) => {
 });
 
 // Get a range of the whole list of datasets:
-odp.getDatasets({query: {limit: 100, offset: 1}}).then((data) => {
+odp.getDatasets({query:{limit: 100, offset: 1}}).then((data) => {
   console.log(data);
 });
 
@@ -64,12 +64,12 @@ odp.getTags({
 });
 
 // Get details about a dataset:
-odp.getDataset({ body: {id: 'dgt-translation-memory'}}).then((data) => {
+odp.getDataset({body:{id:'dgt-translation-memory'}}).then((data) => {
   console.log(data);
 });
 
 // Search for a dataset:
-odp.datasetSearch({ body: {q: "forest"}}).then((data) => {
+odp.datasetSearch({body: {q: "forest"}}).then((data) => {
   console.log(data);
 });
 
