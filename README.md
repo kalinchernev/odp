@@ -88,3 +88,7 @@ Check whether modifications are acceptable:
 ```bash
 $ npm run lint
 ```
+
+## LICENSE
+
+MIT license. See the LICENSE file for details.
