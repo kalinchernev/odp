@@ -1,5 +1,10 @@
 # Introduction
 
+[![npm Version](https://img.shields.io/github/issues/kalinchernev/odp.svg)](https://www.npmjs.com/package/odp)
+[![Circle CI](https://img.shields.io/circleci/project/kalinchernev/odp/master.svg)](https://circleci.com/gh/kalinchernev/odp)
+[![Dependency Status](https://img.shields.io/gemnasium/kalinchernev/odp.svg)](https://gemnasium.com/github.com/kalinchernev/odp)
+[![Documentation Status](http://inch-ci.org/github/kalinchernev/odp.svg?branch=master&style=flat)](http://inch-ci.org/github/kalinchernev/odp)
+
 This project is a simple node.js wrapper for the [European Union Open Data Portal](http://data.europa.eu/euodp/en/data) REST API.
 The wrapper does not aim to replace any of the existing services and websites, but rather encourage more integrations.
 The module is a helper in building web apps requesting data from the portal.
@@ -10,9 +15,6 @@ Install via npm.
 
 ```bash
 $ npm install odp
-
-// Or another way is:
-$ npm install odp --save
 ```
 
 or
