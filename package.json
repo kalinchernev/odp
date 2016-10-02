@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha test/",
-    "lint": "./node_modules/.bin/eslint lib/*"
+    "lint": "./node_modules/.bin/eslint lib/* examples/* index.js"
   },
   "keywords": [
     "open data",
@@ -16,9 +16,6 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "eslint": "^3.7.0",
-    "eslint-config-standard": "^6.2.0",
-    "eslint-plugin-promise": "^2.0.1",
-    "eslint-plugin-standard": "^2.0.1",
     "mocha": "^3.1.0"
   },
   "dependencies": {

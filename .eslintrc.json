@@ -1,7 +1,7 @@
 {
-  "extends": "standard",
-  "plugins": [
-      "standard",
-      "promise"
-    ]
+  "extends": "eslint:recommended",
+  "env": {
+    "node": true,
+    "es6": true
+  }
 }
