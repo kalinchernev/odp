@@ -31,7 +31,7 @@ $ npm install
 
 REST API service: [EU OPD developers' corner](http://data.europa.eu/euodp/en/developerscorner)
 
-Learn more about the open data: [europeandataportal.eu](https://www.europeandataportal.eu/en)
+Learn more about [EU Open Data Portal](http://data.europa.eu/euodp/en/data)
 
 ## Examples
 
