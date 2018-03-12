@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "random-useragent": "^0.3.1",
-    "request": "^2.75.0"
+    "request": "^2.85.0"
   }
 }
