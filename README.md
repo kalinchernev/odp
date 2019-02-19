@@ -2,7 +2,6 @@
 
 [![npm Version](https://img.shields.io/github/issues/kalinchernev/odp.svg)](https://www.npmjs.com/package/odp)
 [![Build Status](https://travis-ci.org/kalinchernev/odp.svg?branch=master)](https://travis-ci.org/kalinchernev/odp)
-[![Dependency Status](https://img.shields.io/gemnasium/kalinchernev/odp.svg)](https://gemnasium.com/github.com/kalinchernev/odp)
 [![Documentation Status](http://inch-ci.org/github/kalinchernev/odp.svg?branch=master&style=flat)](http://inch-ci.org/github/kalinchernev/odp)
 
 This project is a simple node.js wrapper for the [European Union Open Data Portal](http://data.europa.eu/euodp/en/data) REST API.
